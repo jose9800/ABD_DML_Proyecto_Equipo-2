@@ -1,0 +1,6 @@
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\bin\Debug\ABD_MDL_Proyecto_Equipo2.exe.config
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\bin\Debug\ABD_MDL_Proyecto_Equipo2.exe
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\bin\Debug\ABD_MDL_Proyecto_Equipo2.pdb
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\obj\Debug\ABD_MDL_Proyecto_Equipo2.csprojAssemblyReference.cache
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\obj\Debug\ABD_MDL_Proyecto_Equipo2.exe
+C:\Users\Isra\Desktop\ABD\ABD_MDL_Proyecto_Equipo2\ABD_MDL_Proyecto_Equipo2\obj\Debug\ABD_MDL_Proyecto_Equipo2.pdb
